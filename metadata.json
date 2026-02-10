@@ -1,0 +1,7 @@
+{
+  "name": "Sistema Médico - Dr. Modesto Morales",
+  "description": "Una aplicación web avanzada para la gestión de recetas médicas, diagnósticos CIE-10, y seguimiento de pacientes, con integración de IA para asistencia clínica.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
